@@ -36,7 +36,7 @@ Hi,  am currently working toward the Ph.D. degree in computer science and techno
 </div>
 </div> -->
 
-**2022**
+**Speech Processing**
 
 - [SpeechT5: Unified-Modal Encoder-Decoder Pre-Training for Spoken Language Processing](https://aclanthology.org/2022.acl-long.393), Junyi Ao, **Rui Wang**, Long Zhou, Chengyi Wang, Shuo Ren, Yu Wu, Shujie Liu, Tom Ko, Qing Li, Yu Zhang, Zhihua Wei, Yao Qian, Jinyu Li, Furu Wei, **ACL 2022** \| [![](https://img.shields.io/github/stars/microsoft/SpeechT5?style=social&label=Code+Stars)](https://github.com/microsoft/SpeechT5)
 
@@ -45,6 +45,13 @@ Hi,  am currently working toward the Ph.D. degree in computer science and techno
 - [LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT](https://www.isca-speech.org/archive/interspeech_2022/wang22t_interspeech.html), **Rui Wang**, Qibing Bai, Junyi Ao, Long Zhou, Zhixiang Xiong, Zhihua Wei, Yu Zhang, Tom Ko, Haizhou Li, **INTERSPEECH 2022** \| [![](https://img.shields.io/github/stars/mechanicalsea/lighthubert?style=social&label=Code+Stars)](https://github.com/mechanicalsea/lighthubert)
 
 - [Multi-View Self-Attention Based Transformer for Speaker Recognition](https://ieeexplore.ieee.org/document/9746639/), **Rui Wang**, Junyi Ao, Long Zhou, Shujie Liu, Zhihua Wei, Tom Ko, Qing Li, Yu Zhang, **ICASSP 2022**
+
+**Network Control**
+
+- [Attacker Location Evaluation-Based Fake Source Scheduling for Source Location Privacy in Cyber-Physical Systems](https://ieeexplore.ieee.org/document/8501984), Zhen Hong, **Rui Wang**, Shouling Ji, Raheem Beyah, **TIFS 2019**
+- [A Tree-Based Topology Construction Algorithm with Probability Distribution and Competition in the Same Layer for Wireless Sensor Network](https://link.springer.com/article/10.1007/s12083-016-0514-8), Zhen Hong, **Rui Wang**, Xile Li, Ning Wang, **Peer-to-Peer Networking and Applications 2016**
+- [Energy-Efficient and Power-Optimal Topology Control with Potential Game for Heterogeneous Wireless Sensor Networks](https://ieeexplore.ieee.org/document/7723737), Zhen Hong, Rui Wang, Tingting Song, Qian Shao, Lidan Zhou, **BDCloud-SocialCom-SustainCom 2016**
+- [A Clustering-Tree Topology Control Based on the Energy Forecast for Heterogeneous Wireless Sensor Networks](https://ieeexplore.ieee.org/document/7373764), Zhen Hong, **Rui Wang**, Xile Li, **JAS 2016**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
