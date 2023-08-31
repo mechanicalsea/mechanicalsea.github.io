@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi,  am currently working toward the Ph.D. degree in computer science and technology from Tongji University, Shanghai, China, under the supervision of Zhihua Wei (2019-Present). My current research interests include speaker recognition, neural architecture search, and self-supervised learning, and low-resource automatic speech recognition.
+**Rui Wang** is currently working toward the Ph.D. degree in [Computer Science and Technology](https://cs.tongji.edu.cn/main.htm) from [Tongji University](https://www.tongji.edu.cn/) under the supervision of Zhihua Wei (2019-Present). He received B.S. (2011-2015) and M.S. (2015-2018) degrees both from [Zhejiang Sci-Tech University](https://www.zstu.edu.cn/). His current research interests include speaker recognition, speech recognition, speech synthesis, neural architecture search, and self-supervised learning. He was a Research Intern at the Microsoft Research Asia and ByteDance AI Lab. He is the recipient of the Outstanding Reviewer Award for INTERSPEECH 2023.
 
 # 🔥 News
+
+- *2023.08*: &nbsp;🎉🎉 Reviews for INTERSPEECH 2023 are recognized to be some of the most helpful ones this year with an award of "[Outstanding Reviewer](https://interspeech2023.org/outstanding-reviewers/)".
 - *2023.02*: &nbsp;🎉🎉 SpeechT5 is now in Hugging Face Transformers [[Blog](https://huggingface.co/blog/speecht5)] [[TTS Demo](https://huggingface.co/spaces/Matthijs/speecht5-tts-demo)] [[VC Demo](https://huggingface.co/spaces/Matthijs/speecht5-vc-demo)] [[ASR Demo](https://huggingface.co/spaces/Matthijs/speecht5-asr-demo)].
 
 # 📝 Publications 
@@ -57,7 +59,19 @@ Hi,  am currently working toward the Ph.D. degree in computer science and techno
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+# 🖊️ Activities
+
+**Reviewer for Journals**
+
+- [IEEE/ACM Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6570655) ([TASLP](https://signalprocessingsociety.org/publications-resources/ieeeacm-transactions-audio-speech-and-language-processing))
+- [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing)
+
+**Reviewer for Conferences**
+
+- INTERSPEECH: [2023](https://interspeech2023.org/) ([Outstanding Reviewers](https://interspeech2023.org/outstanding-reviewers/))
+
 # 📖 Educations
+
 - *2019.06 - Present*, Ph.D. student, Department of Computer Science and Technology, Tongji University, Shanghai.
 - *2015.09 - 2018.06*, M.S., School of Mechanical Engineering and Automation, Zhejiang Sci-Tech University, Hangzhou.
 - *2011.09 - 2015.06*, B.S., Qi Xin College, Zhejiang Sci-Tech University, Hangzhou.
@@ -68,5 +82,6 @@ Hi,  am currently working toward the Ph.D. degree in computer science and techno
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+
 - *2022.07 - 2022.10*, [ByteDance AI Lab](https://ailab.bytedance.com/research/sa), Shanghai, mentored by [Dr. Tom Ko](https://tomkocse.github.io).
-- *2021.06 - 2021.11*, [MSRA NLC group](https://www.microsoft.com/en-us/research/group/natural-language-computing), Beijing, mentored by [Dr. Long Zhou](https://long-zhou.github.io).
+- *2021.06 - 2021.11*, [MSRA NLC Group](https://www.microsoft.com/en-us/research/group/natural-language-computing), Beijing, mentored by [Dr. Long Zhou](https://long-zhou.github.io).
