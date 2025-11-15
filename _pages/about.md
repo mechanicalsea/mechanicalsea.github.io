@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Rui Wang** is currently working toward the Ph.D. degree in [Computer Science and Technology](https://cs.tongji.edu.cn/main.htm) from [Tongji University](https://www.tongji.edu.cn/) under the supervision of Zhihua Wei (2019-Present). He received B.S. (2011-2015) and M.S. (2015-2018) degrees both from [Zhejiang Sci-Tech University](https://www.zstu.edu.cn/). His current research interests include speaker recognition, speech recognition, speech synthesis, neural architecture search, and self-supervised learning. He was a Research Intern at the Microsoft Research Asia and ByteDance AI Lab. He is the recipient of the Outstanding Reviewer Award for INTERSPEECH 2023.
+**Rui Wang** received Ph.D. degree from [Computer Science and Technology](https://cs.tongji.edu.cn/main.htm) in [Tongji University](https://www.tongji.edu.cn/) under the supervision of Zhihua Wei (2019-2023). He received B.S. (2011-2015) and M.S. (2015-2018) degrees both from [Zhejiang Sci-Tech University](https://www.zstu.edu.cn/). He was a Research Intern at the Microsoft Research Asia and ByteDance AI Lab. He serves as ICASSP and INTERSPEECH reviewer. He is the recipient of the Outstanding Reviewer Award for INTERSPEECH 2023. His current research interests include speech recognition, understanding, and conversation as well as their applications.
 
 # 🔥 News
 
@@ -69,11 +69,12 @@ redirect_from:
 
 **Reviewer for Conferences**
 
-- INTERSPEECH: [2023](https://interspeech2023.org/) ([Outstanding Reviewers](https://interspeech2023.org/outstanding-reviewers/))
+- INTERSPEECH [2023](https://interspeech2023.org/) ([Outstanding Reviewers](https://interspeech2023.org/outstanding-reviewers/)), 2024, and 2025.
+- ICASSP 2024 and 2025.
 
 # 📖 Educations
 
-- *2019.06 - Present*, Ph.D. student, Department of Computer Science and Technology, Tongji University, Shanghai.
+- *2019.06 - 2023.08*, Ph.D., Department of Computer Science and Technology, Tongji University, Shanghai.
 - *2015.09 - 2018.06*, M.S., School of Mechanical Engineering and Automation, Zhejiang Sci-Tech University, Hangzhou.
 - *2011.09 - 2015.06*, B.S., Qi Xin College, Zhejiang Sci-Tech University, Hangzhou.
 - *2008.09 - 2011.06*, Daishan High School Zhejiang, Zhoushan. 
